@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day14_DataStructures1", "Da
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueUsingLinkList", "QueueUsingLinkList\QueueUsingLinkList.csproj", "{B4D9B6F4-2784-4125-B398-6D852BE3605B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedListProgram", "LinkedListProgram\LinkedListProgram.csproj", "{763FC19B-9FA2-446D-8162-92095BAB4A36}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B4D9B6F4-2784-4125-B398-6D852BE3605B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4D9B6F4-2784-4125-B398-6D852BE3605B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4D9B6F4-2784-4125-B398-6D852BE3605B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{763FC19B-9FA2-446D-8162-92095BAB4A36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{763FC19B-9FA2-446D-8162-92095BAB4A36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{763FC19B-9FA2-446D-8162-92095BAB4A36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{763FC19B-9FA2-446D-8162-92095BAB4A36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
