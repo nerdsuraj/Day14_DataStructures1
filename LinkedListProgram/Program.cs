@@ -18,11 +18,7 @@ namespace LinkedListProgram
 
             Console.ReadLine();
 
-            //list.deleteLast("70");list.printlist();  //this will delete the last node
-
-            //list.deleteFirst("56"); list.printlist();  //this will delete the first node
-
-            //list.Search("70");list.printlist();
+            
         }
     }
 }
